@@ -1,2 +1,4 @@
 # html-basics
-basic html pages
+Simple html pages
+
+Level 1 - Using text formatting elements
